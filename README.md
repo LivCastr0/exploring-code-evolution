@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/TheAlgorithms/Python.git
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Production and test files
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: O gráfico “Production and test files” mostra como o número de arquivos de produção e de teste evoluiu entre 2020 e 2025. é possível observar que os arquivos de produção cresceram bastante, saindo 487 em 2020 para 1.320 em 2025. Já os arquivos de teste praticamente não cresceram: começaram com 7 em 2020 e chegaram só a 22 em 2025. Isso chama atenção porque, idealmente, os testes deveriam acompanhar o crescimento do código de produção. Quando isso não acontece, o risco de bugs aumenta, já que testes são essenciais para garantir a confiabilidade, facilitar refatorações e prevenir bugs em projetos grandes e complexos.
 
 
 
